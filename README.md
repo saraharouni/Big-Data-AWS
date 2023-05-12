@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/saraharouni/Big-Data-AWS/blob/main/logo.png?raw=true" alt="Alt Text">
+</p>
+
+
 # Big-Data-AWS
 
 "Fruits!", une start-up spécialisée dans l'AgriTech, souhaite développer une application mobile permettant aux utilisateurs de prendre en photo un fruit et d'obtenir des informations à son sujet. L'objectif de l'entreprise est de sensibiliser le grand public à la biodiversité des fruits et de **créer un moteur de classification d'images de fruits**.
